@@ -3,8 +3,4 @@
 
 2.Wanted to create development branch from this dev branch.
 4.Some changes to dev branch
-<<<<<<< HEAD
-5.extra3
-=======
-
->>>>>>> e26f5ad45098527f3ecd9674cc28ebb859d8a004
+5.extra 3
